@@ -1,0 +1,8 @@
+---
+title: "Localiser Results"
+toc: false
+---
+
+We also modelled results from the localiser task. We modelled both right- and left-hemispheric occipitotemporal electrodes via per-sample linear mixed-effects models. Results (below) showed clear differences in the N1 between the stimuli, in both amplitude and latency.
+
+![(A) Model Estimates. (B) Model ERP predictions.](img/localiser_roi.svg){fig-align="center"}

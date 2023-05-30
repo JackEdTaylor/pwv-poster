@@ -1,0 +1,22 @@
+---
+title: "Can Prediction Error Explain Predictability Effects on the N1 during Picture-Word Verification?"
+toc: false
+---
+
+<h3>Jack E. Taylor<sup>1,2</sup>, Sara C. Sereno<sup>2</sup>, Guillaume, A. Rousselet<sup>2</sup>
+<br></h3>
+
+*<sup>1</sup>Department of Psychology, Goethe University Frankfurt*
+
+*<sup>2</sup>School of Psychology and Neuroscience, University of Glasgow*
+
+<br>
+
+::: {layout-ncol=3}
+
+![](img/logo_goethe.png){vertical-align=center, fig-align=center}
+
+![](img/logo_gla.png){vertical-align=center, fig-align=center}
+
+![](img/logo_esrc.png){vertical-align=center, fig-align=center}
+:::
