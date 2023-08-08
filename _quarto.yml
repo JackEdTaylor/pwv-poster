@@ -15,8 +15,10 @@ website:
       - localiser.qmd
       - text: "Preregistration"
         file: "https://osf.io/jk3r4"
-      - preprint.qmd
-      - data.qmd
+      - text: "Data and Code"
+        file: "https://osf.io/389ce/"
+      - text: "Preprint"
+        file: "https://doi.org/10.1101/2023.08.07.552265"
 
 format:
   html:
