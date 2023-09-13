@@ -5,6 +5,7 @@ project:
 website:
   title: "Picture-Word Verification Poster"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: "Abstract"
