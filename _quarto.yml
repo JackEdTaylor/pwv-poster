@@ -7,18 +7,23 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - abstract.qmd
+        text: "Abstract"
       - text: "Poster"
         file: "poster.pdf"
-      - stimuli.qmd
-      - localiser.qmd
-      - text: "Preregistration"
-        file: "https://osf.io/jk3r4"
-      - text: "Data and Code"
-        file: "https://osf.io/389ce/"
       - text: "Preprint"
         file: "https://doi.org/10.1101/2023.08.07.552265"
+      - text: "OSF"
+        file: "https://osf.io/389ce/"
+      - text: "Preregistration"
+        file: "https://osf.io/jk3r4"
+      - sidebar:details
+    
+  sidebar:
+    - id: details
+      title: "More"
+      contents:
+        - stimuli.qmd
+        - localiser.qmd
 
 format:
   html:
@@ -28,6 +33,7 @@ format:
     css: styles.css
     toc: true
     mainfont: "Arial"
+    sidebar: false
 
 editor: visual
 
